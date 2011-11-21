@@ -1,0 +1,11 @@
+ExplodeProxyMgd
+----------------------------------
+Explode ACAD_PROXY_ENTITY
+Convert it into BlockReference
+Returns BlockReference name
+----------------------------------
+Appload ExplodeProxyMgd.dll in AutoCAD using _netload command
+
+AutoLISP subroutine: (proxy-explode-entity)
+-----------------------------------
+Language: C#, AutoCAD.NET
