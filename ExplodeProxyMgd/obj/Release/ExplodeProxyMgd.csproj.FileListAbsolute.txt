@@ -8,3 +8,8 @@ C:\Users\teplykhak\ACAD-Projects\ExplodeProxyMgd\ExplodeProxyMgd\bin\Release\Exp
 C:\Users\teplykhak\ACAD-Projects\ExplodeProxyMgd\ExplodeProxyMgd\obj\Release\ResolveAssemblyReference.cache
 C:\Users\teplykhak\ACAD-Projects\ExplodeProxyMgd\ExplodeProxyMgd\obj\Release\ExplodeProxyMgd.dll
 C:\Users\teplykhak\ACAD-Projects\ExplodeProxyMgd\ExplodeProxyMgd\obj\Release\ExplodeProxyMgd.pdb
+D:\acadext\ExplodeProxyMgd\ExplodeProxyMgd\bin\Release\ExplodeProxyMgd.dll
+D:\acadext\ExplodeProxyMgd\ExplodeProxyMgd\bin\Release\ExplodeProxyMgd.pdb
+D:\acadext\ExplodeProxyMgd\ExplodeProxyMgd\obj\Release\ResolveAssemblyReference.cache
+D:\acadext\ExplodeProxyMgd\ExplodeProxyMgd\obj\Release\ExplodeProxyMgd.dll
+D:\acadext\ExplodeProxyMgd\ExplodeProxyMgd\obj\Release\ExplodeProxyMgd.pdb
