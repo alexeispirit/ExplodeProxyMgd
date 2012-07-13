@@ -6,7 +6,8 @@ Returns BlockReference name
 ----------------------------------
 Appload ExplodeProxyMgd.dll in AutoCAD using _netload command
 
-AutoLISP subroutine: (proxy-explode-entity)
+AutoLISP subroutine: 	(proxy-explode-to-block ENAME OUTPUT)
+			(proxy-expode-in-place ENAME)
 -----------------------------------
 For network using run following commands as administrator on local machines:
 x64: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CasPol.exe -m -pp off -ag 1.2 -url file://///server/ExplodeProxyMgd.dll FullTrust
